@@ -1,0 +1,6 @@
+WeatherPy Trends
+Davis Grininger
+
+1. Wind speed does not appear to be affected by latitude
+2. Cloudiness increases as you move away from the equator in either direction
+3. Humidity peaks around 10 degrees and is near 100% humanity varies much more as you move from this peak in either direction 
